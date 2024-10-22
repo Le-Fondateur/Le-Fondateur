@@ -26,7 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
 </div>
 
-###
+![GitHub Snake Light](https://github.com/Le-Fondateur/Le-Fondateur/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Le-Fondateur/Le-Fondateur/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lefondateur/" target="_blank">
