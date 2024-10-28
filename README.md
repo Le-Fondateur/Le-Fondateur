@@ -1,31 +1,49 @@
-<h2 align="left">Code adventurer crafting solutions one commit at a time🤓. Welcome to my GitHub lab!👋</h2>
-
-###
-
+# 👋 Hey there, I'm Saad!
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnIwa3lpMGoybmNiZDEzODV3eGNxeXVlbTV5bXF4M2c5NDg4aGZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp"  />
 
-###
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I'm a SOC Analyst at a Tech Startup in London and working as a Freelance Backend Developer for various projects    
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📝 I regulary do scripting for various cyber related operations
+- 💻 I use daily: **.py**, **.js**, **.php**,  **.sql**
+- 📖 I am currently reading **The Singularity is Near** by Ray Kurzweil
+- 💬 Talk to me about Machine Learning, Horses & Startups
+- 👯 We can connect to play Fifa or CoD
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
-</div>
 
+### Languages
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+
+### Technologies
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+
+
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🗺%20AI%20Chatbot-000)](https://github.com/Le-Fondateur/AI-Chatbot)
+
+### Cybersecurity Projects
+
+[![](https://img.shields.io/badge/-📝%20APT%20Incident%20Response%20Runbook-000)](https://github.com/Le-Fondateur/APT-Incident-Response-Runbook)
+[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/Le-Fondateur)
+[![](https://img.shields.io/badge/-🛡%20Windows%20Event%20Log%20+%20ART%20Detection-000)](https://github.com/adamalston/Meltdown-Spectre)
+
+## 📢 Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lefondateur/" target="_blank">
