@@ -2,7 +2,7 @@
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnIwa3lpMGoybmNiZDEzODV3eGNxeXVlbTV5bXF4M2c5NDg4aGZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp"  />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a SOC Analyst at a Tech Startup and working as a Freelance Backend Developer on multi-national projects     
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Cyber Security Analyst at a Tech Startup and working as a Freelance Backend Developer on multi-national projects     
 - 📝 I regulary do scripting for various cyber related operations
 - 💻 I use daily: **.py**, **.js**, **.php**,  **.sql**
 - 📖 I am currently reading **The Singularity is Near** by Ray Kurzweil
